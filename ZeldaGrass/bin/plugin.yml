@@ -1,0 +1,5 @@
+name: ZeldaGrass
+main: pck.Errored.ZeldaGrass.ZeldaGrass
+version: 0.0.1
+description: A super-lightweight plugin that gives you Rupees (Emeralds) and Hearts (Health) when mowing down tall grass with Swords.
+commands:
